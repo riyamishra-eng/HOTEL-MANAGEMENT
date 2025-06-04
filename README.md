@@ -33,3 +33,26 @@ Tools: GCC / Code::Blocks / Turbo C (Compatible with most C compilers)
 
 
 3. Run the executable in your terminal or IDE.
+
+
+
+**SCREENSHOT**
+
+INPUT
+
+
+
+
+
+
+
+![1](https://github.com/user-attachments/assets/14f05f83-a4d7-461e-a6ad-9bb6157d3a58)
+
+
+![2](https://github.com/user-attachments/assets/fe25d922-1f69-4aa7-b425-af9cd5605083)
+![3](https://github.com/user-attachments/assets/1f47d35c-2f64-46a6-bfd8-fc2e5a050f77)
+
+OUTPUT
+
+
+![4](https://github.com/user-attachments/assets/e0348108-4fe4-4919-9aec-52f184ee1972)
