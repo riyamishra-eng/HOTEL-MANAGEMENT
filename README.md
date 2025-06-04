@@ -36,7 +36,7 @@ Tools: GCC / Code::Blocks / Turbo C (Compatible with most C compilers)
 
 
 
-**SCREENSHOT**
+**SCREENSHOT OF PROJECT**
 
 INPUT
 
@@ -52,7 +52,16 @@ INPUT
 ![2](https://github.com/user-attachments/assets/fe25d922-1f69-4aa7-b425-af9cd5605083)
 ![3](https://github.com/user-attachments/assets/1f47d35c-2f64-46a6-bfd8-fc2e5a050f77)
 
+
+
 OUTPUT
 
 
 ![4](https://github.com/user-attachments/assets/e0348108-4fe4-4919-9aec-52f184ee1972)
+
+
+![5](https://github.com/user-attachments/assets/834dfc7e-b47a-4b3c-900d-1cab51a0f7c1)
+![6](https://github.com/user-attachments/assets/487259b3-e333-44a6-8d89-c8348b033523)
+
+![7](https://github.com/user-attachments/assets/80c24063-0b73-4088-b856-b19bfaa752cd)
+
